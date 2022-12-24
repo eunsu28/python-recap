@@ -8,3 +8,11 @@ for_while = 0
 while for_while < 10:
   for_while = for_while + 1
   print(for_while)
+
+tree = 0
+while tree < 10:
+  tree = tree + 1
+  if tree == 10:
+    print("you've hit the tree 10 times, tree is going over")
+  else:
+    print(f"you've hit tree {tree} time(s)")
