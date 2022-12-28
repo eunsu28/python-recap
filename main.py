@@ -16,3 +16,7 @@ while tree < 10:
     print("you've hit the tree 10 times, tree is going over")
   else:
     print(f"you've hit tree {tree} time(s)")
+
+
+for i in range(1, 11):
+  print(i)
