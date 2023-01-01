@@ -19,4 +19,4 @@ while tree < 10:
 
 
 for i in range(1, 11):
-  print(i * 2)
+  print("2의 배수 ",i * 2)
