@@ -20,3 +20,7 @@ while tree < 10:
 
 for i in range(1, 11):
   print("2의 배수 ",i * 2)
+
+fighterjets = ["f117", "f22", "f18", "f16"]
+for i in fighterjets:
+  print(i)
