@@ -19,3 +19,5 @@ fighterjets = ["f117", "f22", "f18", "f16"]
 for i in fighterjets:
   print(i)
 
+dic = {"dfd" : "dff"}
+print(dic)
