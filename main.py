@@ -22,3 +22,9 @@ for i in fighterjets:
 dic = {"dfd" : "dff"}
 print(dic)
 #hello
+
+def Sum(a, b):
+  return a + b
+
+function = Sum(1, 2)
+print(function)
