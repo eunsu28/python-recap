@@ -19,7 +19,7 @@ fighterjets = ["f117", "f22", "f18", "f16"]
 for i in fighterjets:
   print(i)
 
-dic = {"dfd" : "dff"}
+dic = {"fighter" : "f22", "bomber" : "b25"}
 print(dic)
 
 def Sum(a, b):
@@ -27,4 +27,4 @@ def Sum(a, b):
 
 function = Sum(1, 2)
 print(function)
-#hello
+
