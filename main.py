@@ -28,3 +28,6 @@ def Sum(a, b):
 function = Sum(1, 2)
 print(function)
 
+def function1(a, b):
+  if a > b:
+    return "a is gratest"
