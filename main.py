@@ -31,3 +31,6 @@ print(function)
 def function1(a, b):
   if a > b:
     return "a is gratest"
+
+function2 = function1(2, 1)
+print(function2)
