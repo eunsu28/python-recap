@@ -36,3 +36,11 @@ def function1(a, b):
 
 function2 = function1(2, 1)
 print(function2)
+
+def whi(a):
+  i = 0
+  while i < a:
+    i = i + 1
+    print(i)
+
+kdjafldja = whi(20)
