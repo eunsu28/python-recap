@@ -44,3 +44,5 @@ def whi(a):
     print(i)
 
 kdjafldja = whi(20)
+
+print("almost finish")
