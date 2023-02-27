@@ -43,4 +43,4 @@ def whi(a):
     i = i + 1
     print(i)
 
-kdjafldja = whi(20)e
+kdjafldja = whi(20)
